@@ -1,0 +1,20 @@
+body{
+  margin-top:40px;
+	background:grey;
+}
+
+h1 {
+    font-family: Lobster, Monospace;
+    
+  }
+h5{
+  text-align: center;
+}
+hr {
+   border-top: 1.5px solid #aaaaaa;
+   border-bottom: 1.5px solid #ffffff;
+}
+.jumbotron{
+    background-color: #F5F6CE;
+    
+}
